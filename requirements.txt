@@ -1,3 +1,4 @@
 PyQt5
 virustotal_python
 requests
+configparser
